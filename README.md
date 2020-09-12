@@ -4,7 +4,7 @@ A collection of Jupyter notebooks describing how to leverage the Linked Paleo Da
 
 ## The LiPD ecosystem
 
-![LiPD ecosystem](“LiPD_ecosystem_v4.png”)
+![LiPD ecosystem](LiPD_ecosystem_v4.png)
 
 
 The LiPD ecosystem consists of the following resources:
