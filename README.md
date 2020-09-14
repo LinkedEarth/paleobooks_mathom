@@ -25,7 +25,7 @@ All code is open-source, with installation instructions provided with each packa
 
 ## License
 
-MIT License?
+All notebooks herein are provided under an [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license. 
 
 ## Citation
 We needn't tell you that making research tools accessible requires time and effort. If you find any of these resources useful and use them in your own research, please do us the kindness of one or more citations. Each notebook in this collection is registered on Zenodo, and associated with a digital object identifier (DOI). Following the link in the top left corner of each notebook will yield appropriate textual citation. If you use any of the standards (LiPD, PaCTS) or the software (GeoChronR, Pyleoclim), please cite them as well. It will make  us (and NSF!) very happy to hear that these investments spawned more research. 
