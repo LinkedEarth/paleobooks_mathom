@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/246457932.svg)](https://zenodo.org/badge/latestdoi/246457932)
+
 # LiPDbooks
 
 A collection of Jupyter notebooks illustrating the use of Linked Paleo Data (LiPD) in paleoclimate research. LiPDBooks gathers multiple examples of complex workflows inspired by real-world paleoclimate problems. If you have suggestions for more examples, please submit an [issue](https://github.com/LinkedEarth/LiPDbooks/issues). If you want to contribute, please [get in touch](mailto:linkedearth@gmail.com). If you want to give us a shoutout, we're [social](https://twitter.com/Linked_Earth)!
