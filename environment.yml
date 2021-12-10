@@ -1,0 +1,12 @@
+name: devtest
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy=0.20.1
+  - jupyter=1.0.0
+  - pip
+  - python=3.9.7
+  - pip:
+    - setuptools==56.0.0
+    - git+https://github.com/LinkedEarth/Pyleoclim_util.git@Development
