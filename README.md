@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/246457932.svg)](https://zenodo.org/badge/latestdoi/246457932)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LinkedEarth/PaleoBooks/HEAD)
+
 # PaleoBooks
 
 This repository contains a collection of Jupyter notebooks illustrating the use of software libraries maintained by [LinkedEarth](http://www.linked.earth). These notebooks can be uses as tutorials. They are fully executable through Binder (click on the badge at the top).
