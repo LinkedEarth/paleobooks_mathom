@@ -1,2 +1,5 @@
 notebooks/*.log
 notebooks/.ipynb_checkpoints
+notebooks/.DS_Store
+notebooks/lipd/.DS_Store
+.DS_Store
