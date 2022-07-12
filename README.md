@@ -4,7 +4,7 @@
 
 # PaleoBooks
 
-This repository contains a collection of Jupyter notebooks illustrating the use of software libraries maintained by [LinkedEarth](http://www.linked.earth). These notebooks can be uses as tutorials. They are fully executable through Binder (click on the badge at the top).
+This repository contains a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by [LinkedEarth](http://www.linked.earth). These examples are fully executable through Binder (click on the badge at the top).
 
 If you have suggestions for more examples, please submit an [issue](https://github.com/LinkedEarth/PaleoBooks/issues). If you want to contribute, please submit a pull request.
 
