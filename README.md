@@ -4,9 +4,9 @@
 
 # PaleoBooks
 
-This repository contains a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by [LinkedEarth](http://www.linked.earth). These examples are fully executable through Binder (click on the badge at the top).
+This repository contains a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by [LinkedEarth](http://www.linked.earth). These examples are fully executable through Binder (click on the badge at the top). Workflows will be updated and maintained  until 2024 (sunsetting of PaleoCube grant), after which this will be become a legacy repository.
 
-If you have suggestions for more examples, please submit an [issue](https://github.com/LinkedEarth/PaleoBooks/issues). If you want to contribute, please submit a pull request.
+If you have suggestions for more examples, please submit an [issue](https://github.com/LinkedEarth/PaleoBooks/issues). If you want to contribute, please submit a pull request. For more technical tutorials on how to use Pyleoclim, see [PyleoTutorials](https://github.com/LinkedEarth/PyleoTutorials).
 
 If you want to give us a shoutout, we're [social](https://twitter.com/Linked_Earth)!
 
