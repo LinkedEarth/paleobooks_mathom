@@ -2,18 +2,8 @@ name: pb_mathom
 channels:
   - conda-forge
   - defaults
-#dependencies:
-#  - cartopy=0.20.1
-#  - jupyter=1.0.0
-#  - pip
-#  - python=3.9.7
-#  - libstdcxx-ng=12.1.0
-#  - pip:
-#    - setuptools==56.0.0
-#    - pyleoclim==0.7.4
 dependencies:
   - python=3.11
-#  - seaborn
   - scikit-learn
   - statsmodels
   - ipykernel
